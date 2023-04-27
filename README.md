@@ -1,2 +1,9 @@
 # lista-exercicio-2-java-matheuslacerda
 Lista de exercícios 2 em Java.
+Meu perfil no Linkedin [Linkedin](link do perfil do linkedin).
+
+Tecnologias utilizadas:
+
+[JDK](https://www.oracle.com/java/technologies/downloads/)
+
+[IDE](https://code.visualstudio.com/Download)
