@@ -1,4 +1,4 @@
-# lista-exercicio-2-java-matheuslacerda
+# lista-exercicio-3-java-matheuslacerda
 Lista de exercícios 2 em Java.
 
 Meu perfil no Linkedin [Linkedin](link do perfil do linkedin).
